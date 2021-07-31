@@ -1,0 +1,9 @@
+.main__image img {
+  height: 250px;
+  width: 250px;
+}
+
+.main__image {
+  border: 1px solid red;
+  width: fit-content;
+}
